@@ -1,0 +1,28 @@
+
+
+#imagem-animal {
+      width: 300px;
+      height: 200px;
+      border-style: groove;
+      border-width: 2px;
+}
+
+#curiosidade-animal {
+    font-style: italic;
+}
+
+.divisao {
+    width: 300px;
+    border-style: groove;
+    border-width: 2px;
+}
+
+
+ul {
+    list-style-type : none;
+    margin: 0;
+    padding: 0;
+}
+.titulo-item-lista {
+    font-weight: bold;
+}
